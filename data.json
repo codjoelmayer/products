@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "name": "Dell Latitude",
+            "description": "Dell Latitude E5450 i3 5th GEN",
+            "type": "Business",
+            "price": 30000,
+            "image": "https://i.postimg.cc/65tcMqdc/Dell-Latitude-E5450-i3-5th-GEN-1-for-business-10000.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Acer Extensa",
+            "description": "Acer Extensa 15 6 inch 256 GBSSd 8 GBRAM",
+            "type": "Personal",
+            "price": 15000,
+            "image": "https://i.postimg.cc/gJKtZmp1/Acer-Extensa-15-6-inch-256-GBSSd-8-GBRAM.png"
+        },
+        {
+            "id": 3,
+            "name": "Acer Travel",
+            "description": "Acer Travel Mate Intel Core i5 SSD512 8 GB RAM",
+            "type": "Business",
+            "price": 20000,
+            "image": "https://i.postimg.cc/0j2WGF2j/Acer-Travel-Mate-Intel-Corei5-SSD512-8-GBRAM.png"
+        },
+        {
+            "id": 4,
+            "name": "Lenovo IDea Pad",
+            "description": "Lenovo IDea Pad 1 TBHDD 4 GBRAM 6350",
+            "type": "Personal",
+            "price": 10000,
+            "image": "https://i.postimg.cc/rwwdXLQg/Lenovo-IDea-Pad-1-TBHDD-4-GBRAM-6350.png"
+        },
+        {
+            "id": 5,
+            "name": "HP Elite",
+            "description": "HP Elite Book Intel Core i5 1135 G7 256 GB SSD-8-GB",
+            "type": "Office",
+            "price": 40000,
+            "image": "https://i.postimg.cc/7Y83v1PB/HPElite-Book-Intel-Core-i5-1135-G7-256-GBSSD-8-GB.png"
+        }
+    ]
+}
